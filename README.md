@@ -1,5 +1,5 @@
 # Database-Engine
-Database Engine that supports some features like:hi
+Database Engine that supports some features like:
 - Creating a table
 - Inserting into a table
 - Updating a table
